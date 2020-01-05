@@ -9,6 +9,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        // Oppretter Produkt liste, som skal inneholde produktene.
         List<Produkt> Produkter = new ArrayList<Produkt>();
 
         Scanner scanner = new Scanner(System.in);
